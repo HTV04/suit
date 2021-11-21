@@ -1,5 +1,5 @@
 # suit-compact
-suit-compact is a modfied version of [SUIT](https://github.com/vrld/suit), an immediate mode GUI library for [LÖVE](https://love2d.org/), that combines all of its features into a single script.
+suit-compact is a modified version of [SUIT](https://github.com/vrld/suit), an immediate mode GUI library for [LÖVE](https://love2d.org/), that combines all of its features into a single script.
 
 suit-compact is fully API compatible with SUIT, or in another words, it is a complete drop-in replacement for SUIT.
 
