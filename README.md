@@ -1,23 +1,17 @@
-# SUIT
+# suit-compact
+suit-compact is a modfied version of [SUIT](https://github.com/vrld/suit), an immediate mode GUI library for [LÖVE](https://love2d.org/), that combines all of its features into a single script.
 
-Simple User Interface Toolkit for LÖVE.
+suit-compact is fully API compatible with SUIT, or in another words, it is a complete drop-in replacement for SUIT.
 
-SUIT is an immediate mode GUI library.
+## Documentation
+Over at SUIT's [readthedocs](http://suit.readthedocs.org/en/latest/).
 
-## Documentation?
-
-Over at [readthedocs](http://suit.readthedocs.org/en/latest/).
-
-## Looks?
-
+## Demo
 Here is how SUIT looks like with the default theme:
 
-![Demo of all widgets](docs/_static/demo.gif)
-
-More info and code is over at [readthedocs](http://suit.readthedocs.org/en/latest/).
+![Demo of all widgets](https://user-images.githubusercontent.com/53527582/142747220-d8c678f1-ba2b-49c3-9da8-9964d2812c0a.gif)
 
 ## Hello, World!
-
 ```lua
 -- suit up
 local suit = require 'suit'
